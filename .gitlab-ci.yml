@@ -3,5 +3,7 @@ stages:
 
 hello_world:
   stage: hello_world
+  tags:
+    - shared
   script:
     - echo "Hello, World!"
