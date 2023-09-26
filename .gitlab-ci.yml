@@ -4,6 +4,6 @@ stages:
 hello_world:
   stage: hello_world
   tags:
-    - shared
+    - linux
   script:
     - echo "Hello, World!"
