@@ -6,4 +6,4 @@ hello_world:
   tags:
     - linux
   script:
-    - echo "Hello World!!"
+    - echo "Hello World!!!!!!!!!"
