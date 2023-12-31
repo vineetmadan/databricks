@@ -1,0 +1,7 @@
+rundeck_node_10.52.38.16:
+  nodename: rundeck_node_10.52.38.16
+  hostname: 10.52.38.16
+  ssh-key-storage-path: keys/rundeck_node_10.52.38.16
+  description: Rundeck EC2 node
+  osName: Linux
+  username: rundeck_user
